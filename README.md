@@ -12,6 +12,12 @@ Développeurs Informatiques
 
 ## Installation d'une machine virtuelle Debian 9 sur VirtualBox
 
+### Télécharger la version i386 de Debian 9
+
+https://www.debian.org/distrib/netinst
+
+
+
 
 ### Configuration réseau sur VirtualBox
 
